@@ -1,4 +1,6 @@
-void test()
+﻿void test()
 {
 	ig;
+
+	//あ
 }
