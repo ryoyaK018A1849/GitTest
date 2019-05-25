@@ -1,6 +1,9 @@
-﻿void test()
+﻿#include<iostream>
+
+void test()
 {
+
 	ig;
 
-	//あ
+	//test
 }
